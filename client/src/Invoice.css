@@ -1,0 +1,9 @@
+.hr{
+    height: 6px;
+    color: black;
+    background-color: black;
+    /* width: 10px; */
+}
+.container{
+    color: black;
+}

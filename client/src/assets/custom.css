@@ -1,0 +1,40 @@
+.sec_background {
+    background: #F5F5DC;
+}
+.rdt_Table {
+    margin-bottom: 1rem;
+}
+.rdt_TableRow {
+    background-color: grey;
+}
+.rdt_TableCol {
+    color: black;
+    font-weight: bolder;
+}
+.rdt_TableCol_Sortable {
+}
+.rdt_TableCell {
+}
+.rdt_TableHeader {
+    background-color: transparent;
+}
+.rdt_TableFooter {
+}
+.rdt_TableHead {
+}
+.rdt_TableHeadRow {
+    background-color: green;
+}
+.rdt_TableBody {
+}
+.rdt_ExpanderRow {
+}
+.image_align_center{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.align_center{
+    width:100%; height:100%;
+}
+

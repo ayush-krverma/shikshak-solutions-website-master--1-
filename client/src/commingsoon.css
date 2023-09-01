@@ -1,0 +1,119 @@
+
+/* .nav{
+    font-size: 11px; 
+    margin-left: 20px;
+}
+.img{
+    margin-left: -10px;
+}
+
+.mt-2{
+color: black;
+font-size: 25px;
+margin-top: 10px;
+}
+
+.dgy{
+    color: black;
+    font-size: 11px;
+    margin-top: -25px;
+}
+
+.mt-3{
+color: #ff0000;
+font-size: 25px;
+}
+
+.qty{
+border: 1px solid black;
+height: 35px;
+width: 100px;
+background-color: #ffffff;
+margin-top: -20px;
+}
+.button{
+height: 40px;
+width: 250px;
+background-color: #1cb23d;
+border-radius: 15px;
+border: 1px solid #ffffff;
+margin-top: 14px;
+
+}
+
+NavLink b{
+font-size: 25px;
+color: #ffffff;
+}
+
+.lorem{
+font-size: 13px;
+color: #000000;
+margin-top: 50px;
+margin-right: 20px;
+}
+.img-related{
+    margin-left: 58px;
+}
+
+.img-p{
+font-size: 32px;
+color: #000000;
+margin-top: 20px;
+}
+
+.image-flex{
+margin-bottom: 40px;
+margin-top: 50px;
+margin-left: -40px;
+}
+
+.pera{
+margin-left: 90px;
+font-size: 17px;
+color: #000000;
+margin-top: 20px;
+}
+.flex{
+    display: flex;
+}
+.image-flex{
+    display: flex;
+}
+
+
+
+
+@media (max-width: 400px){
+    
+    .img img{
+        height: 210px;
+        width: 300px;
+    }
+    .flex{
+        display: block;
+        margin-left: 33px;
+    }
+    .product{
+        margin-left: 47px;
+    }
+    .image-flex{
+     display: block;
+     margin-left: -10px;
+    }
+    .button{
+        width:  175px;
+    }
+} */
+
+/* .flex{
+    display: flex;
+}
+
+
+@media (max-width: 400px){
+    .flex{
+        display: block;
+        margin-left: 33px;
+    }
+} */
